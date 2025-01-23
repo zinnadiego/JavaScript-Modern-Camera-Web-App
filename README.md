@@ -42,4 +42,8 @@ A sleek, feature-rich web camera application that transforms your browser into a
 ## 📝 License
  - Distributed under the MIT License. See LICENSE for more information.
 
+## 🌐 Live Demo
+
+Try it out: [Modern Camera Web App Demo](https://www.cerebrosdigitales.com/demos/JavaScript-Modern-Camera-Web-App/)
+
 ## 🚀 Quick Start
